@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-softwareheritage",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Software Heritage MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-b73f2f5591e4c2e907c35629ba3fb28487f62fdb4d812f3260039e8a4dffd981",
+    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
   }
 }
