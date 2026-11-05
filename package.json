@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-softwareheritage",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Software Heritage MCP. The archive of public source code: which repositories have been archived, when each was last successfully captured, and the commits inside them, addressed by SWHID (the intrinsic identifier that keeps resolving after a repository is renamed, moved or deleted).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "softwareheritage",
     "gatewaySlug": "softwareheritage",
-    "sourceHash": "v1-07adaeb50729d9c76b60d3267ed1c15036b54456ba9796aa6011cefd55968c13",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-51a0e0f1d75305b71b9f142acccb2e85a40f69512b4204c7d33680086c81b6e9",
+    "sourceCommit": "8fc802aa5e23be625ce08d97178f5676c7bc93f3"
   }
 }
